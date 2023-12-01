@@ -52,3 +52,16 @@ xtwone3four => two,four => 24
 zoneight234 => one,4 => 14
 7pqrstsixteen => 7,six => 76
 sum 281.
+
+also, note:
+onEight => one eight => 18
+twOne => two one => 21
+threEight => three eight
+fivEight => five eight => 58
+eighTwo => eight two
+eighThree => eight three
+ninEight => nine eight
+
+thus:
+bluetwoone3xyz5oneeight => two,eight => 28
+
